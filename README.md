@@ -7,7 +7,7 @@ This is a sample app used in the blog post explaining how to containerize .NET F
 Clone this repo with:
 
 ```sh
-git clone 
+git clone https://github.com/oktadeveloper/okta-docker-dotnet-framework-example.git
 ```
 
 Follow the instruction in the [blog post]().
